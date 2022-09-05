@@ -9,4 +9,4 @@ source .env/bin/activate
 pip3 install jupyter
 jupyter-notebook
 ```
-or use one of the [many](https://mybinder.org/) [web](https://jupyter.org/try-jupyter/lab/) [based](https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb) solutions. Have fun!
+or use one of the [many](https://mybinder.org/) [web](https://jupyter.org/try-jupyter/lab/) [based](https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb) solutions. You can also view a non-interactive, somewhat unfortunately formatted version directly on Github. Have fun!
